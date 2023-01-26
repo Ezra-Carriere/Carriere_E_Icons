@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 123.62 123.62">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #231f20;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+      }
+    </style>
+  </defs>
+  <g id="waveBackground">
+    <circle class="cls-1" cx="61.81" cy="61.81" r="61.81"/>
+  </g>
+  <g id="waveMain">
+    <line class="cls-2" x1="32.3" y1="46.59" x2="32.3" y2="77.03"/>
+    <line class="cls-2" x1="39.71" y1="38.71" x2="39.71" y2="85.06"/>
+    <line class="cls-2" x1="47.75" y1="32.53" x2="47.75" y2="91.55"/>
+    <line class="cls-2" x1="54.55" y1="38.71" x2="54.55" y2="85.06"/>
+    <line class="cls-2" x1="61.81" y1="46.59" x2="61.81" y2="77.03"/>
+    <line class="cls-2" x1="69.38" y1="38.71" x2="69.38" y2="85.06"/>
+    <line class="cls-2" x1="76.49" y1="32.53" x2="76.49" y2="91.55"/>
+    <line class="cls-2" x1="83.75" y1="38.71" x2="83.75" y2="85.06"/>
+    <line class="cls-2" x1="91.16" y1="46.59" x2="91.16" y2="77.03"/>
+  </g>
+</svg>

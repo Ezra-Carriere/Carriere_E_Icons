@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 124.02 123.62">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #231f20;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+      }
+    </style>
+  </defs>
+  <g id="guitarBackground">
+    <circle class="cls-1" cx="62.21" cy="61.81" r="61.81"/>
+  </g>
+  <g id="guitar">
+    <path class="cls-2" d="M84.63,39.32l3.03,2.94,10.39-8.61-6.72-5.95-19.64,18.63s-11.45-2.96-17,4.06c0,0-31.52,5.03-12.69,29.93,0,0,22.51,21.95,29.56-11.95,0,0,9.48-3.82,4.56-16.5l7.51-6.77"/>
+    <line class="cls-2" x1="49.03" y1="65.79" x2="57.16" y2="74.42"/>
+    <circle class="cls-2" cx="62.21" cy="61.81" r="5.05"/>
+  </g>
+</svg>

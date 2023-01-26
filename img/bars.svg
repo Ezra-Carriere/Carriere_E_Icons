@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 123.62 123.62">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #231f20;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+      }
+    </style>
+  </defs>
+  <g id="barsBackground">
+    <circle class="cls-1" cx="61.81" cy="61.81" r="61.81"/>
+  </g>
+  <g id="bars">
+    <line class="cls-2" x1="31.56" y1="82.95" x2="48.61" y2="82.95"/>
+    <line class="cls-2" x1="31.56" y1="75.76" x2="48.61" y2="75.76"/>
+    <line class="cls-2" x1="31.56" y1="68.58" x2="48.61" y2="68.58"/>
+    <line class="cls-2" x1="53.28" y1="82.95" x2="70.33" y2="82.95"/>
+    <line class="cls-2" x1="53.28" y1="75.76" x2="70.33" y2="75.76"/>
+    <line class="cls-2" x1="53.28" y1="68.58" x2="70.33" y2="68.58"/>
+    <line class="cls-2" x1="53.28" y1="60.34" x2="70.33" y2="60.34"/>
+    <line class="cls-2" x1="53.28" y1="53.16" x2="70.33" y2="53.16"/>
+    <line class="cls-2" x1="53.28" y1="45.97" x2="70.33" y2="45.97"/>
+    <line class="cls-2" x1="53.28" y1="38.79" x2="70.33" y2="38.79"/>
+    <line class="cls-2" x1="53.28" y1="31.6" x2="70.33" y2="31.6"/>
+    <line class="cls-2" x1="75.01" y1="82.92" x2="92.06" y2="82.92"/>
+    <line class="cls-2" x1="75.01" y1="75.74" x2="92.06" y2="75.74"/>
+    <line class="cls-2" x1="75.01" y1="68.55" x2="92.06" y2="68.55"/>
+    <line class="cls-2" x1="75.01" y1="60.31" x2="92.06" y2="60.31"/>
+    <line class="cls-2" x1="75.01" y1="53.13" x2="92.06" y2="53.13"/>
+  </g>
+</svg>

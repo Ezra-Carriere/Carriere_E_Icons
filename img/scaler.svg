@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 123.62 123.62">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #231f20;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-2, .cls-3 {
+        stroke: #fff;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="scalerBackground">
+    <circle class="cls-1" cx="61.81" cy="61.81" r="61.81"/>
+  </g>
+  <g id="scaler">
+    <line class="cls-3" x1="41.91" y1="33.28" x2="41.91" y2="93.68"/>
+    <line class="cls-3" x1="63.91" y1="33.28" x2="63.91" y2="93.68"/>
+    <line class="cls-3" x1="85.91" y1="33.28" x2="85.91" y2="93.68"/>
+    <rect class="cls-2" x="33.64" y="47.41" width="16.27" height="9.6"/>
+    <rect class="cls-2" x="55.77" y="77.01" width="16.27" height="9.6"/>
+    <rect class="cls-2" x="77.77" y="57.01" width="16.27" height="9.6"/>
+  </g>
+</svg>
