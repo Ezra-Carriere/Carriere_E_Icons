@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 123.62 123.62">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #231f20;
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+      }
+    </style>
+  </defs>
+  <g id="speakerBackground">
+    <circle class="cls-2" cx="61.81" cy="61.81" r="61.81"/>
+  </g>
+  <g id="speakerMain">
+    <rect class="cls-1" x="40.12" y="30.72" width="43.38" height="62.17"/>
+  </g>
+  <g id="speakerBig">
+    <ellipse class="cls-3" cx="61.81" cy="71.53" rx="11.44" ry="11.93"/>
+  </g>
+  <g id="SpeakerMid">
+    <circle class="cls-3" cx="61.81" cy="71.53" r="4.57"/>
+  </g>
+  <g id="speakerTop">
+    <circle class="cls-3" cx="61.88" cy="45.99" r="4.57"/>
+  </g>
+</svg>
